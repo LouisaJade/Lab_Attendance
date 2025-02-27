@@ -1,0 +1,7 @@
+---
+title: "Lab_Attendance"
+format: html
+author: Louisa Jade Beckett
+---
+
+##I learned and finally understood how to add in directories and that if you create a repository in GitHub you can copy the URL and paste it when creating a new directory on RStudio.
